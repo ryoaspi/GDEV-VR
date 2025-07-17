@@ -1,0 +1,16 @@
+{
+    "name": "RemoveColor",
+    "rootNamespace": "RemoveColor",
+    "references": [
+        "GUID:d6cd0728c7addbd45bd03b4f082ec1f2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
